@@ -5,7 +5,7 @@
 2. Click on the your **profile photo** in the right corner.
 3. Then a drop down will open. Select **settings** from the drop down.
 4. 
-5. ![settings](settings panel.jpg)
+5. ![settings]()
 6. 
 7. Then, click on the **accounts**.
 8. 
