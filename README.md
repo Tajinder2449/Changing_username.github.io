@@ -5,7 +5,7 @@
 2. Click on the your **profile photo** in the right corner.
 3. Then a drop down will open. Select **settings** from the drop down.
 4. 
-5. ![settings]()
+5. ![settings](https://github.com/Tajinder2449/Changing_username.github.io/blob/main/settings%20panel.jpg)
 6. 
 7. Then, click on the **accounts**.
 8. 
