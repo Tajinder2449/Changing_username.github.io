@@ -13,8 +13,8 @@
 10. 
 11. There under **change my username**, you can change your username to a desired one.
 12. 
-13. ![username](username panel.jpg)
+13. ![username](https://github.com/Tajinder2449/Changing_username.github.io/blob/main/username%20panel.jpg)
 14. 
-15. ![change username](final change username.jpg)
+15. ![change username]()
 16. 
 17. Just read everything carefully and do as given.
