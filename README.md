@@ -9,7 +9,7 @@
 6. 
 7. Then, click on the **accounts**.
 8. 
-9. ![account panel](account panel.jpg)
+9. ![account panel](https://github.com/Tajinder2449/Changing_username.github.io/blob/main/account%20panel.jpg)
 10. 
 11. There under **change my username**, you can change your username to a desired one.
 12. 
